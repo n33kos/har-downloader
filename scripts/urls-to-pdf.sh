@@ -2,7 +2,7 @@
 #
 # Requires:
 #  - wget
-#  - imagemagick (convert function)s
+#  - imagemagick (convert function)
 #
 # Usage:
 # $TITLE = Title of pdf
